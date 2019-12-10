@@ -6,6 +6,7 @@
 #include <Windows.h>
 #include "elektronickyukolovnik.h"
 #include <conio.h>
+#include <time.h>
 
 
 
