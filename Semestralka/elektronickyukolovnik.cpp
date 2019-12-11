@@ -51,7 +51,8 @@ void navigace() {
 		minulyUkol();
 		break;
 	case 3:
-		//DODELAT ALESPON NECO!!!
+		printf("Vas budouci ukol: \n\n");
+		minulyUkol();
 		break;
 	case 4:
 		pridejUkol();
@@ -86,8 +87,8 @@ void klavesTady(int aktualniPozice, int sipkaPozice) { //Sipka v navigaci
 
 /*    MANIPULACE S UKOLY   */
 
-
-void pridejUkol() { // PRIDAT UKOL
+// PRIDAT UKOL
+void pridejUkol() { 
 
 	FILE* fp;
 
@@ -113,8 +114,8 @@ void pridejUkol() { // PRIDAT UKOL
 	navigace();
 }
 
-
-void aktualniCas() { // CAS VLOZENI UKOLU
+// CAS VLOZENI UKOLU
+void aktualniCas() {
 
 	FILE* fp;
 	if ((fp = fopen("seznam.txt", "a")) == NULL)
@@ -129,8 +130,8 @@ void aktualniCas() { // CAS VLOZENI UKOLU
 	fclose(fp);
 }
 
-
-void seznamUkolu() { // ZOBRAZENI VSECH UKOLU
+// ZOBRAZENI VSECH UKOLU
+void seznamUkolu() { 
 
 	FILE *fp;
 
@@ -199,6 +200,7 @@ void aktualniUkol() {
 
 }
 
+//NASTAVENI PRIORITY
 void priorita() {
 
 	system("cls");
@@ -276,6 +278,7 @@ void minulyUkol() {
 	navigace();
 }
 
+//Smazat vsechno v souboru seznam.txt
 void smazatSeznam() {
 
 	FILE* fp;
@@ -302,6 +305,7 @@ void smazatSeznam() {
 
 }
 
+/*KONEC*/
 void ukoncitProgram() {
 
 	char odpoved;
