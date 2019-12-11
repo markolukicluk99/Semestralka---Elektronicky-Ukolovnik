@@ -8,7 +8,13 @@
 #include <conio.h>
 #include <time.h>
 
-
+/* SEMESTRALNI PRACE 
+---Elektronicky Ukolovnik---
+---Predmet: BPC-PC1T--------
+---Marko Lukic--------------
+---Veljko Lazarevic---------
+---Skupina: BPC-TLI03-------
+*/
 
 int main()
 {

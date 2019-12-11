@@ -7,4 +7,7 @@ void aktualniUkol();
 void pridejUkol();
 void minulyUkol();
 void aktualniCas();
+void cervenaBarva();
+void resetBarev();
+void priorita();
 void ukoncitProgram();

@@ -1,1 +1,3 @@
-||  Cas vlozeni: 2019-12-10 23:15:57  ||  NAZEV: Veljko   ||   OBSAH: Veljko cepa travu   || 
+||  Cas vlozeni: 2019-12-11 1:13:52  ||  NAZEV: Nove kalhoty   ||   OBSAH: Najit si nejake nove kalhoty v prodene   || 
+||  Cas vlozeni: 2019-12-11 1:15:27  ||  NAZEV: Udelat jeste 5 funkce   ||   OBSAH: Najdi si to na stackoverflow   || 
+||  Cas vlozeni: 2019-12-11 1:17:27  ||  NAZEV: Koupit cokolad   ||   OBSAH: Pristi tyden bude sleva na cokolad v bille   || 
